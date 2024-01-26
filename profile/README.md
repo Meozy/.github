@@ -1,4 +1,4 @@
-![Meozy](./assets/meozy.png)
+![Meozy](https://meozy.github.io/.github/profile/assets/meozy.png)
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -52,7 +52,7 @@ Obrigado vai para essas pessoas maravilhosas!
 <!-- ABOUT THE PROJECT -->
 ## Sobre O Porojeto
 
-![Product Name Screen Shot](assets/screenshot.png)
+![Product Name Screen Shot](https://meozy.github.io/.github/profile/assets/screenshot.png)
 
 O Meozy é um aplicativo de streaming de áudio e player de música que permite aos usuários ouvir suas músicas favoritas em qualquer lugar. O aplicativo oferece uma ampla seleção de músicas de artistas de todo o mundo, incluindo artistas populares, indies e desconhecidos.
 
