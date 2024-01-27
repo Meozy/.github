@@ -17,9 +17,9 @@
   <ol>
     <li><a href="#contribuidores">Contribuidores</a></li>
     <li>
-      <a href="#sobre-o-porojeto">Sobre O Projeto</a>
+      <a href="#sobre-o-projeto">Sobre O Projeto</a>
       <ul>
-        <li><a href="#construido-com">Construido Com</a></li>
+        <li><a href="#construído-com">Construido Com</a></li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -50,7 +50,7 @@ Obrigado vai para essas pessoas maravilhosas!
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ABOUT THE PROJECT -->
-## Sobre O Porojeto
+## Sobre O Projeto
 
 ![Product Name Screen Shot](https://meozy.github.io/.github/profile/assets/screenshot.png)
 
@@ -64,7 +64,7 @@ Destaques:
 * Acesso a músicas sem anúncios
 * Qualidade de áudio superior
 
-### Construido Com
+### Construído Com
 
 As principais ferramentas de contrução do projeto
 
